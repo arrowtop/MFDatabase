@@ -10,7 +10,7 @@ Project Overview
 
 - Language: Java
 - Library: PostgreSQL Java Library
-- DBMS: PostgreSQL
+- DBMS: PostgreSQL 
 
 4. HighLights
 
