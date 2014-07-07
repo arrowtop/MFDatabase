@@ -1,0 +1,5 @@
+cust, prod, avg_0_quant, sum_0_quant, count_0_quant, max_0_quant, min_0_quant
+0
+cust, prod
+avg_0_quant, sum_0_quant, count_0_quant, max_0_quant, min_0_quant
+  

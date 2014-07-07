@@ -1,0 +1,5 @@
+cust, prod, avg_0_quant+sum_1_quant, max_1_state, min_1_state, avg_2_quant, count_3_state
+3
+cust, prod
+avg_0_quant, sum_1_quant, max_1_state, min_1_state, avg_2_quant, count_3_state
+state.compareTo("NJ") > 0, state.compareTo(max_1_state) < 0, quant > avg_2_quant + avg_0_quant
