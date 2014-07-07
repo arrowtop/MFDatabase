@@ -9,8 +9,8 @@ Project Overview
 3. Technology We Are Using
 
 - Language: Java
-- DBMS: PostgreSQL
 - Library: PostgreSQL Java Library
+- DBMS: PostgreSQL
 
 4. HighLights
 
